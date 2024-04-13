@@ -1,2 +1,2 @@
 # git-flow-testing
-test
+hotfix
